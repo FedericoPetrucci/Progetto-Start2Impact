@@ -1,0 +1,22 @@
+
+/*SEZIONE ABOUT*/
+
+#pic img{
+    width: 300px;
+    height: 175px;
+}
+
+#intro h2{
+    font-size: 1.5rem;
+}
+
+/*SEZIONE PORTFOLIO*/
+
+.gallery img{
+    width: 150px;
+    height: 140px;
+    margin: 10px;
+}
+
+
+

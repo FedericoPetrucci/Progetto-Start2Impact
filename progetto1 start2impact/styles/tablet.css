@@ -1,0 +1,32 @@
+/*SEZIONE NAVBAR*/
+
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/*HEADINGS*/
+
+.heading{
+    font-size: 2.5rem;
+}
+
+/*SEZIONE HOME*/
+
+#home{
+    height: 650px;
+
+}
+
+
+/*SEZIONE ABOUT*/
+
+#pic{
+    flex-direction: column;
+    align-items: center;
+}
+
+#intro h2{
+    text-align: center;
+}
+
